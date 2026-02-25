@@ -122,6 +122,11 @@ EVENT:READY
 - **Web Serial API** — Browser-to-microcontroller communication
 - **Vanilla HTML/CSS/JS** — Zero-dependency dashboard
 
+## Screenshot
+<img width="1920" height="1080" alt="Screenshot 2026-02-25 235649" src="https://github.com/user-attachments/assets/6d43915f-d44a-407d-943f-b4afef3378f2" />
+
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
